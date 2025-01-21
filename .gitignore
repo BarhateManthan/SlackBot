@@ -1,0 +1,4 @@
+__MACOSX/
+.venv/
+app/venv/
+app/__pycache__/
